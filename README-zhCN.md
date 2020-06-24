@@ -22,3 +22,5 @@ ZSH_THEME="garden"
 ```bash
 source ~/.zshrc
 ```
+## License
+garden已在[MIT License](LICENSE)下发布
