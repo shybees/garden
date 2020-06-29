@@ -11,7 +11,7 @@
 ## 安装步骤
 1. 克隆仓库
 ```bash
-https://github.com/fecat233/garden.git
+git clone https://github.com/fecat233/garden.git
 ```
 2. 配置.zshrc文件
 ```json

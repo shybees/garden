@@ -11,7 +11,7 @@ if you want to use this theme, you should install [Zsh](https://www.zsh.org/) an
 ## install step
 1. clone repository
 ```bash
-https://github.com/fecat233/garden.git
+git clone https://github.com/fecat233/garden.git
 ```
 2. config .zshrc
 ```json
